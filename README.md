@@ -7,3 +7,4 @@ Tableau Link - Lab Session 3: https://public.tableau.com/profile/rucha5691#!/viz
 
 Tableau Link - Lab session 6: https://public.tableau.com/profile/rucha5691#!/vizhome/LabSession6/Dashboard1?publish=yes
 Redesign Project - https://public.tableau.com/profile/rucha5691#!/vizhome/Redesign_2/IntermediateVersion1?publish=yes
+Redesign Project Jupyter Notebook - https://github.com/kulkarnirucha176/myworkspace/blob/master/Redesign%20Project.ipynb
