@@ -10,3 +10,4 @@ Redesign Project - https://public.tableau.com/profile/rucha5691#!/vizhome/Redesi
 Redesign Project Jupyter Notebook - https://github.com/kulkarnirucha176/myworkspace/blob/master/Redesign%20Project%20(with%20citations).ipynb
 Video link - https://drive.google.com/open?id=13ZLrbDRqCz15cuCxMpb9rkGfcDTN2VDg
 Lab session 7 - tableau link-  https://public.tableau.com/profile/rucha5691#!/vizhome/LS7/Anthem?publish=yes
+Lab session 7 - https://github.com/kulkarnirucha176/myworkspace/blob/master/Lab%20Session%20-%207.ipynb
