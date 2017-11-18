@@ -19,4 +19,4 @@ Tableau link to Deceptive Viz. - https://public.tableau.com/profile/rucha5691#!/
 Video link for Deceptive Viz. - https://drive.google.com/open?id=1IV2YO081vpj_HD9wDIYynj_tAV62iTan
 
 Lab Session 9 - SCU MSIS for Employers - Tableau link https://public.tableau.com/profile/rucha5691#!/vizhome/SCUMSISforEmployers/Dashboard1?publish=yes
-Jupyter Notebook - 
+Jupyter Notebook - https://github.com/kulkarnirucha176/myworkspace/blob/master/SCU%20MSIS%20Dashboard.ipynb
