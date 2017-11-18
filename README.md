@@ -17,3 +17,6 @@ SCU MSIS Fact sheet Tableau - https://public.tableau.com/profile/rucha5691#!/viz
 Deceptive Visualization - https://github.com/kulkarnirucha176/myworkspace/blob/master/Roger%20Federer%20is%20not%20the%20G.O.A.T..ipynb
 Tableau link to Deceptive Viz. - https://public.tableau.com/profile/rucha5691#!/vizhome/RogerFedererisnottheG_O_A_T_/DeceptiveVizRogerFedererisnottheG_O_A_T_
 Video link for Deceptive Viz. - https://drive.google.com/open?id=1IV2YO081vpj_HD9wDIYynj_tAV62iTan
+
+Lab Session 9 - SCU MSIS for Employers - Tableau link https://public.tableau.com/profile/rucha5691#!/vizhome/SCUMSISforEmployers/Dashboard1?publish=yes
+Jupyter Notebook - 
